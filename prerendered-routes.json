@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/group",
+    "/index",
+    "/place"
+  ]
+}
